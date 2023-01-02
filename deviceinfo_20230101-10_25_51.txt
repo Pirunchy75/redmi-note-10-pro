@@ -1,0 +1,648 @@
+------Device Info------
+date: 20230101-10:25:51
+author: com.liuzh.deviceinfo
+version: v2.9.2.2(268)
+
+---------Dispositivo---------
+Nombre del dispositivo: null
+Modelo: M2101K6R
+Fabricante: Xiaomi
+Dispositivo: sweet
+Placa: sweet
+Hardware: qcom
+Marca: Redmi
+
+ID de marco de servicios de Google: 352F3401BB8CFAF4
+ID de publicidad de Google: 594ee503-5681-4a8b-af12-7d3e0b2a4ced
+ID de dispositivo Android: fa0058318e477744
+Serie de hardware: unknown
+Construir huella digital: Redmi/sweet_global/sweet:12/SKQ1.210908.001/V13.0.15.0.SKFMIXM:user/release-keys
+Tipo de dispositivo: GSM
+Operador de red: TELCEL
+Tipo de red: 13
+Dirección MAC WiFi: Desconocido
+Dirección MAC de Bluetooth: Desconocido
+
+---------Sistema---------
+Nombre de la versión: Android 12 S
+Nivel de API: 31
+Número de compilación: SKQ1.210908.001 test-keys
+Tiempo de construcción: 07 nov. 2022 22:36:38 PST
+ID de compilación: SKQ1.210908.001
+Nivel de parche de seguridad: 2022-11-01
+Bootloader: unknown
+Banda base: 4.3.c5-00123-1101_1630_d200d7e395,4.3.c5-00123-1101_1630_d200d7e395
+Idioma: español (Estados Unidos)
+Zona horaria: hora estándar del Pacífico(GMT-08:00)
+Acceso raíz: No
+Tiempo de actividad del sistema: 09:34:50
+
+Tiempo de ejecución de Java: Android Runtime 0.9
+Java VM: ART 2.1.0
+Tamaño de pila de Java VM: 268 MB
+Arquitectura del kernel: aarch64
+Versión del núcleo: 268 MB
+OpenGL ES: 3.2
+SELinux: Incapaz de determinar
+Versión de OpenSSL: OpenSSL 1.1.1 (compatible; BoringSSL)
+
+--DRM--
+Vendedor: Google
+Versión: 16.0.0
+Descripción: Widevine CDM
+Algoritmo: AES/CBC/NoPadding,HmacSHA256
+Nivel de seguridad: L1
+Identificación del sistema: 20292
+Nivel HDCP: Disconnected
+Nivel máximo de HDCP: HDCP-2.3
+Soporte de informes de uso: True
+Número máximo de sesiones: 30
+Número de sesiones abiertas: 0
+
+---------CPU---------
+Hardware: Qualcomm Technologies, Inc SM7150
+Núcleos: 8
+Frecuencia de la CPU: 300MHz - 2304MHz
+Núcleo 1: 1248 Mhz
+Núcleo 2: 1248 Mhz
+Núcleo 3: 1248 Mhz
+Núcleo 4: 1248 Mhz
+Núcleo 5: 1248 Mhz
+Núcleo 6: 1248 Mhz
+Núcleo 7: 1555 Mhz
+Núcleo 8: 1555 Mhz
+SOC: Qualcomm® Snapdragon™ 73x
+Procesador: AArch64 Processor rev 14 (aarch64)
+ABI compatibles: arm64-v8a, armeabi-v7a, armeabi
+Hardware de la CPU: Qualcomm Technologies, Inc SM7150
+Gobernador de la CPU: schedutil
+
+Renderizador de GPU: Adreno (TM) 618
+Proveedor de GPU: Qualcomm
+Versión de GPU: 3.2 OpenGL ES-CM 1.1
+
+---------Red---------
+
+--WIFI--
+Wi-Fi directo: Soportado
+
+--Datos móviles--
+Multi SIM: Soportado
+Tipo de dispositivo: GSM
+Identificador de celda: 5686020
+Código de área de seguimiento: 14089
+
+---------Almacenamiento---------
+
+--RAM--
+Usado: 3113.0 MB
+Total: 5569.0 MB
+
+--Almacenamiento del sistema--
+Camino: /system
+Usado: 3.1 GB
+Total: 3.1 GB
+Sistema de archivos: ext4
+
+--Almacenamiento interno--
+Camino: /data
+Usado: 13.5 GB
+Total: 107.1 GB
+Sistema de archivos: f2fs
+
+--Almacenamiento interno--
+Camino: /storage/emulated/0
+Usado: 13.5 GB
+Total: 107.1 GB
+Sistema de archivos: 
+
+---------Batería---------
+Capacidad (datos del sistema): 5020.0 mAh
+Salud: Bueno
+Nivel: 11%
+Estado: Descarga
+Fuente de alimentación: Batería
+Tecnología: Li-poly
+Temperatura: 80.5℉
+Voltaje: 3672 mV
+
+---------Pantalla---------
+Nombre: Pantalla integrada
+Altura de la pantalla: 2400 px
+Ancho de pantalla: 1080 px
+Frecuencia de actualización: 60.00 fps
+Tamaño de pantalla: Pantalla normal
+Tamaño físico: 6.67   pulgadas
+Orientación: Retrato
+Modo brillo: Adaptado
+Tiempo de espera de la pantalla: 300 Segundos
+
+Cubo de exhibición: xhdpi
+Ppp de pantalla: 440 dpi
+xdpi: 394.705 dpi
+ydpi: 394.307 dpi
+Densidad lógica: 2.75
+Densidad escalada: 3.85
+Escala de fuente: 1.40
+
+---------Cámara---------
+
+--12.0 MP - atrás--
+Resolución: 4000x3000
+Longitudes focales: 5.89 mm
+Modos de aberración: Apagado, Rápido, Alta calidad
+Modos antibanding: Apagado, 50Hz, 60Hz, Auto
+Modos de exposición automática: Apagado, En, Flash automático, Siempre Flash, Ojos rojos con flash automático
+Rangos de FPS objetivo: [15,15], [8,30], [30,30]
+Rango de compensación: [-24,24]
+Paso de compensación: 1/6
+Modos de autoenfoque: Apagado, Auto, Macro, Video continuo, Imagen continua
+Efectos: Apagado, Mononucleosis infecciosa, Negativo, Solarizar, Sepia, Posterizar, Agua, Pizarra, Pizarron
+Modos de escena: Discapacitado, Prioridad al rostro, Acción, Retrato, Paisaje, Noche, Retrato nocturno, Teatro, playa, Nieve, Puesta de sol, Fuegos artificiales, Deportes, Fiesta, Luz de una vela, HDR
+Modos de estabilización de video: Apagado, En
+Modos de balance de blancos automático: Auto, Incandescente, Fluorescente, Fluorescente cálido, Luz, Luz del día nublado, Crepúsculo, Sombra, Apagado
+Regiones de máxima exposición automática: 1
+Regiones máximas de enfoque automático: 1
+Regiones de balance de blancos automático máximo: 0
+Modos de borde: Rápido, Alta calidad, Apagado, Cero retraso del obturador
+Flash disponible: si
+Modos de píxeles calientes: Apagado, Rápido, Alta calidad
+Nivel de hardware: Level 3
+Tamaños de miniatura: 0 x 0
+176 x 144
+205 x 154
+240 x 144
+256 x 144
+240 x 160
+256 x 154
+246 x 184
+240 x 240
+320 x 240
+Colocación de lentes: atrás
+Aberturas: 1.89
+Densidades de filtro: 0.0
+Longitudes focales: 5.89mm
+Estabilización óptica: Apagado
+Calibración de la distancia de enfoque: Aproximado
+Capacidades de la cámara: Compatible con versiones anteriores, Vídeo de alta velocidad restringido, RAW, Reprocesamiento YUV, Reprocesamiento privado, Leer la configuración del sensor, Sensor manual, Captura en ráfaga, Posprocesamiento manual
+Flujos de salida máximos: 3
+Atasco máximo de flujos de salida: 2
+Flujos de salida RAW máximos: 1
+Resultados parciales: 2
+Zoom digital máximo: 10.0
+Tipo de recorte: Centro solamente
+Resoluciones admitidas: 12.00 MP - 4000 x 3000
+9.01 MP - 4000 x 2252
+8.29 MP - 3840 x 2160
+8.08 MP - 3280 x 2464
+5.04 MP - 2592 x 1944
+2.59 MP - 2400 x 1080
+4.05 MP - 2320 x 1744
+2.07 MP - 1920 x 1080
+1.92 MP - 1600 x 1200
+1.15 MP - 1600 x 720
+1.56 MP - 1440 x 1080
+1.23 MP - 1280 x 960
+1.12 MP - 1560 x 720
+1.04 MP - 1440 x 720
+0.92 MP - 1280 x 720
+0.48 MP - 800 x 600
+0.35 MP - 720 x 480
+0.31 MP - 640 x 480
+0.10 MP - 352 x 288
+0.08 MP - 320 x 240
+0.03 MP - 176 x 144
+Modos de patrón de prueba: Apagado
+Disposición del filtro de color: GBRG
+Tamaño del sensor: 8.40 x 6.30
+Tamaño de matriz de píxeles: 4000 x 3000
+Fuente de marca de tiempo: Tiempo real
+Orientación: 90 deg
+Modos de detección de rostros: Apagado, Sencillo
+
+--4.0 MP - Frente--
+Resolución: 2320x1744
+Longitudes focales: 3.5 mm
+Modos de aberración: Apagado, Rápido, Alta calidad
+Modos antibanding: Apagado, 50Hz, 60Hz, Auto
+Modos de exposición automática: Apagado, En
+Rangos de FPS objetivo: [15,15], [8,30], [30,30]
+Rango de compensación: [-24,24]
+Paso de compensación: 1/6
+Modos de autoenfoque: Apagado
+Efectos: Apagado, Mononucleosis infecciosa, Negativo, Solarizar, Sepia, Posterizar, Agua, Pizarra, Pizarron
+Modos de escena: Discapacitado, Prioridad al rostro, Acción, Retrato, Paisaje, Noche, Retrato nocturno, Teatro, playa, Nieve, Puesta de sol, Fuegos artificiales, Deportes, Fiesta, Luz de una vela, HDR
+Modos de estabilización de video: Apagado, En
+Modos de balance de blancos automático: Auto, Incandescente, Fluorescente, Fluorescente cálido, Luz, Luz del día nublado, Crepúsculo, Sombra, Apagado
+Regiones de máxima exposición automática: 1
+Regiones máximas de enfoque automático: 0
+Regiones de balance de blancos automático máximo: 0
+Modos de borde: Rápido, Alta calidad, Apagado, Cero retraso del obturador
+Flash disponible: No
+Modos de píxeles calientes: Apagado, Rápido, Alta calidad
+Nivel de hardware: Level 3
+Tamaños de miniatura: 0 x 0
+176 x 144
+205 x 154
+240 x 144
+256 x 144
+240 x 160
+256 x 154
+246 x 184
+240 x 240
+320 x 240
+Colocación de lentes: Frente
+Aberturas: 2.45
+Densidades de filtro: 0.0
+Longitudes focales: 3.5mm
+Estabilización óptica: Apagado
+Calibración de la distancia de enfoque: Aproximado
+Capacidades de la cámara: Compatible con versiones anteriores, Vídeo de alta velocidad restringido, RAW, Reprocesamiento YUV, Reprocesamiento privado, Leer la configuración del sensor, Sensor manual, Captura en ráfaga, Posprocesamiento manual
+Flujos de salida máximos: 3
+Atasco máximo de flujos de salida: 2
+Flujos de salida RAW máximos: 1
+Resultados parciales: 2
+Zoom digital máximo: 10.0
+Tipo de recorte: Centro solamente
+Resoluciones admitidas: 4.05 MP - 2320 x 1744
+2.07 MP - 1920 x 1080
+1.92 MP - 1600 x 1200
+1.15 MP - 1600 x 720
+1.56 MP - 1440 x 1080
+1.23 MP - 1280 x 960
+1.12 MP - 1560 x 720
+1.04 MP - 1440 x 720
+0.92 MP - 1280 x 720
+0.48 MP - 800 x 600
+0.35 MP - 720 x 480
+0.31 MP - 640 x 480
+0.10 MP - 352 x 288
+0.08 MP - 320 x 240
+0.03 MP - 176 x 144
+Modos de patrón de prueba: Apagado
+Disposición del filtro de color: BGGR
+Tamaño del sensor: 4.64 x 3.49
+Tamaño de matriz de píxeles: 2320 x 1744
+Fuente de marca de tiempo: Tiempo real
+Orientación: 270 deg
+Modos de detección de rostros: Apagado, Sencillo
+
+---------Temperatura---------
+q6-hvx-usr: 93.1℉
+q6-hvx-lowf: 93.1℉
+cpu-1-0-usr: 104.2℉
+pm6150-ibat-lvl1: 172.6℉
+cpu-1-1-step: 103℉
+battery: 80.5℉
+gpuss-max-step: 91.4℉
+audio-usr: 95.4℉
+audio-lowf: 95.4℉
+cpuss-0-usr: 99℉
+pm6150-tz: 98.6℉
+cpu-0-5-step: 101.3℉
+lmh-dcvs-00: 167℉
+npu-step: 94.3℉
+aoss-1-usr: 93.1℉
+gpuss-0-lowf: 86.8℉
+cpu-0-4-usr: 100.1℉
+cpu-0-3-step: 97.7℉
+wifi_therm: 82.9℉
+npu-usr: 94.3℉
+video-lowf: 93.1℉
+gpuss-0-usr: 86.8℉
+cpu-1-0-lowf: 104.8℉
+cpu-0-2-usr: 93.1℉
+cpu-0-2-step: 93.1℉
+pm6150l-tz: 98.6℉
+mdm-dsp-usr: 92.5℉
+mdm-dsp-lowf: 92.5℉
+cpu-1-3-usr: 100.1℉
+pm6150-vbat-lvl2: 96.6℉
+aoss-0-lowf: 93.1℉
+cpu-0-1-usr: 94.3℉
+cpu-0-0-step: 100.1℉
+cpu_therm: 86.2℉
+camera-usr: 94.3℉
+camera-lowf: 94.3℉
+cpu-1-1-usr: 105.3℉
+pm6150-vbat-lvl0: 96.6℉
+cpu-1-2-step: 101.9℉
+aoss-0-usr: 93.1℉
+cpu-0-max-step: 101.9℉
+xo_therm: 83.9℉
+ddr-usr: 89.6℉
+ddr-lowf: 89.6℉
+cpuss-1-usr: 99℉
+pm6150-ibat-lvl0: 116.3℉
+cpu-1-0-step: 105.3℉
+bms: 80.6℉
+lmh-dcvs-01: 167℉
+q6-hvx-step: 93.1℉
+cwlan-usr: 92℉
+cwlan-lowf: 92℉
+cpu-0-5-usr: 101.3℉
+cpu-0-4-step: 100.1℉
+video-usr: 93.1℉
+gpuss-1-usr: 90.7℉
+cpu-0-3-usr: 98.5℉
+charger_therm0: 82.5℉
+npu-lowf: 94.3℉
+cpu-0-0-lowf: 102.4℉
+cpu-0-1-step: 93.8℉
+quiet_therm: 81.7℉
+mdm-core-usr: 90.2℉
+mdm-core-lowf: 90.2℉
+cpu-1-2-usr: 108.9℉
+pm6150-vbat-lvl1: 96.6℉
+cpu-1-3-step: 110℉
+cpu-0-0-usr: 103.7℉
+cpu-1-max-step: 110℉
+pa_therm0: 82.7℉
+
+---------Sensores---------
+
+--DETECTOR DE INCLINACIÓN--
+Vendedor : qualcomm
+sns_tilt  Wakeup
+Despertar sensor : si
+Poder : 0.025mA
+
+--DETECTOR DE PASOS--
+Vendedor : qualcomm
+pedometer  Wakeup
+Despertar sensor : si
+Poder : 0.15mA
+
+--DETECTOR DE PASOS--
+Vendedor : qualcomm
+pedometer  Non-wakeup
+Despertar sensor : No
+Poder : 0.15mA
+
+--CONTADOR DE PASOS--
+Vendedor : qualcomm
+pedometer  Wakeup
+Despertar sensor : si
+Poder : 0.15mA
+
+--CONTADOR DE PASOS--
+Vendedor : qualcomm
+pedometer  Non-wakeup
+Despertar sensor : No
+Poder : 0.15mA
+
+--DETECCIÓN ESTACIONARIA--
+Vendedor : qualcomm
+stationary_detect_wakeup
+Despertar sensor : si
+Poder : 0.025mA
+
+--DETECCIÓN ESTACIONARIA--
+Vendedor : qualcomm
+stationary_detect
+Despertar sensor : No
+Poder : 0.025mA
+
+--MOVIMIENTO SIGNIFICATIVO--
+Vendedor : qualcomm
+sns_smd  Wakeup
+Despertar sensor : si
+Poder : 0.025mA
+
+--ACELERÓMETRO NO CALIBRADO--
+Vendedor : TDK-Invensense
+icm4x6xx Accelerometer-Uncalibrated Non-wakeup
+Despertar sensor : No
+Poder : 0.24mA
+
+--VECTOR DE ROTACION--
+Vendedor : qualcomm
+Rotation Vector  Non-wakeup
+Despertar sensor : No
+Poder : 1.415mA
+
+--ORIENTACIÓN--
+Vendedor : xiaomi
+orientation  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--CAMPO MAGNÉTICO NO CALIBRADO--
+Vendedor : akm
+ak0991x Magnetometer-Uncalibrated Non-wakeup
+Despertar sensor : No
+Poder : 1.1mA
+
+--CAMPO MAGNÉTICO--
+Vendedor : akm
+ak0991x Magnetometer Non-wakeup
+Despertar sensor : No
+Poder : 1.1mA
+
+--ACELERACIÓN LINEAL--
+Vendedor : qualcomm
+linear_acceleration
+Despertar sensor : No
+Poder : 0.515mA
+
+--GRAVEDAD--
+Vendedor : qualcomm
+gravity  Non-wakeup
+Despertar sensor : No
+Poder : 0.515mA
+
+--VECTOR DE ROTACIÓN GEOMAGNÉTICA--
+Vendedor : qualcomm
+sns_geomag_rv  Non-wakeup
+Despertar sensor : No
+Poder : 1.05mA
+
+--VECTOR DE ROTACIÓN DE JUEGO--
+Vendedor : qualcomm
+Game Rotation Vector  Non-wakeup
+Despertar sensor : No
+Poder : 0.515mA
+
+--ACELEROMETRO--
+Vendedor : TDK-Invensense
+icm4x6xx Accelerometer Non-wakeup
+Despertar sensor : No
+Poder : 0.24mA
+
+--GIROSCOPIO NO CALIBRADO--
+Vendedor : TDK-Invensense
+icm4x6xx Gyroscope-Uncalibrated Non-wakeup
+Despertar sensor : No
+Poder : 0.57mA
+
+--LIGERO--
+Vendedor : Rohm
+rohm_bu27030 Ambient Light Sensor Wakeup
+Despertar sensor : si
+Poder : 0.12mA
+
+--LIGERO--
+Vendedor : Rohm
+rohm_bu27030 Ambient Light Sensor Non-wakeup
+Despertar sensor : No
+Poder : 0.12mA
+
+--GIROSCOPIO--
+Vendedor : TDK-Invensense
+icm4x6xx Gyroscope Non-wakeup
+Despertar sensor : No
+Poder : 0.57mA
+
+--ORIENTACIÓN DEL DISPOSITIVO--
+Vendedor : xiaomi
+device_orient  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--ORIENTACIÓN DEL DISPOSITIVO--
+Vendedor : xiaomi
+device_orient  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--PROXIMIDAD--
+Vendedor : Xiaomi
+Xiaomi Proximity
+Despertar sensor : si
+Poder : 0.5mA
+
+--SAR ADUX1050  Wakeup--
+Vendedor : analog_devices_inc
+SAR ADUX1050  Wakeup
+Despertar sensor : si
+Poder : 2.2mA
+
+--SAR ADUX1050  Non-wakeup--
+Vendedor : analog_devices_inc
+SAR ADUX1050  Non-wakeup
+Despertar sensor : No
+Poder : 2.2mA
+
+--sar_detector  Wakeup--
+Vendedor : xiaomi
+sar_detector  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--sar_detector  Non-wakeup--
+Vendedor : xiaomi
+sar_detector  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--NonUi  Wakeup--
+Vendedor : XiaoMi
+NonUi  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--NonUi  Non-wakeup--
+Vendedor : XiaoMi
+NonUi  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--pickup  Wakeup--
+Vendedor : XiaoMi
+pickup  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--pickup  Non-wakeup--
+Vendedor : XiaoMi
+pickup  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--rohm_bu27030  Non-wakeup--
+Vendedor : Rohm
+rohm_bu27030  Non-wakeup
+Despertar sensor : No
+Poder : 0.12mA
+
+--oem13_light_smd  Wakeup--
+Vendedor : XiaoMi
+oem13_light_smd  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--oem13_light_smd  Non-wakeup--
+Vendedor : XiaoMi
+oem13_light_smd  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--har_wakeup--
+Vendedor : xiaomi
+har_wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--har--
+Vendedor : xiaomi
+har
+Despertar sensor : No
+Poder : 0.001mA
+
+--sar_detector_1  Wakeup--
+Vendedor : xiaomi
+sar_detector_1  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--sar_detector_1  Non-wakeup--
+Vendedor : xiaomi
+sar_detector_1  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--icm4x6xx  Wakeup--
+Vendedor : TDK-Invensense
+icm4x6xx  Wakeup
+Despertar sensor : si
+Poder : 0.05mA
+
+--icm4x6xx  Non-wakeup--
+Vendedor : TDK-Invensense
+icm4x6xx  Non-wakeup
+Despertar sensor : No
+Poder : 0.05mA
+
+--Aod  Wakeup--
+Vendedor : XiaoMi
+Aod  Wakeup
+Despertar sensor : si
+Poder : 0.001mA
+
+--Aod  Non-wakeup--
+Vendedor : XiaoMi
+Aod  Non-wakeup
+Despertar sensor : No
+Poder : 0.001mA
+
+--tsl2540  Wakeup--
+Vendedor : ams AG
+tsl2540  Wakeup
+Despertar sensor : si
+Poder : 0.08mA
+
+--tsl2540  Non-wakeup--
+Vendedor : ams AG
+tsl2540  Non-wakeup
+Despertar sensor : No
+Poder : 0.08mA
+
+--Touch Sensor--
+Vendedor : xiaomi
+Touch Sensor
+Despertar sensor : No
+Poder : 0.01mA
+
+---------Aplicaciones---------
+Aplicaciones del sistema: 312
+Aplicaciones de usuario: 23
